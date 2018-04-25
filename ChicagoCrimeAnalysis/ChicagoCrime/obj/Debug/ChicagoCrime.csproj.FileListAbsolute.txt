@@ -1,0 +1,10 @@
+C:\Users\Harshil Patel\Desktop\CS341\ChicagoCrimeAnalysis\ChicagoCrimeAnalysis\ChicagoCrime\bin\Debug\ChicagoCrime.exe.config
+C:\Users\Harshil Patel\Desktop\CS341\ChicagoCrimeAnalysis\ChicagoCrimeAnalysis\ChicagoCrime\bin\Debug\ChicagoCrime.exe
+C:\Users\Harshil Patel\Desktop\CS341\ChicagoCrimeAnalysis\ChicagoCrimeAnalysis\ChicagoCrime\bin\Debug\ChicagoCrime.pdb
+C:\Users\Harshil Patel\Desktop\CS341\ChicagoCrimeAnalysis\ChicagoCrimeAnalysis\ChicagoCrime\obj\Debug\ChicagoCrime.csprojResolveAssemblyReference.cache
+C:\Users\Harshil Patel\Desktop\CS341\ChicagoCrimeAnalysis\ChicagoCrimeAnalysis\ChicagoCrime\obj\Debug\ChicagoCrime.Form1.resources
+C:\Users\Harshil Patel\Desktop\CS341\ChicagoCrimeAnalysis\ChicagoCrimeAnalysis\ChicagoCrime\obj\Debug\ChicagoCrime.Properties.Resources.resources
+C:\Users\Harshil Patel\Desktop\CS341\ChicagoCrimeAnalysis\ChicagoCrimeAnalysis\ChicagoCrime\obj\Debug\ChicagoCrime.csproj.GenerateResource.cache
+C:\Users\Harshil Patel\Desktop\CS341\ChicagoCrimeAnalysis\ChicagoCrimeAnalysis\ChicagoCrime\obj\Debug\ChicagoCrime.csproj.CoreCompileInputs.cache
+C:\Users\Harshil Patel\Desktop\CS341\ChicagoCrimeAnalysis\ChicagoCrimeAnalysis\ChicagoCrime\obj\Debug\ChicagoCrime.exe
+C:\Users\Harshil Patel\Desktop\CS341\ChicagoCrimeAnalysis\ChicagoCrimeAnalysis\ChicagoCrime\obj\Debug\ChicagoCrime.pdb
