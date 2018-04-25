@@ -6,6 +6,8 @@
 // CS341, Spring 2018
 // Project 07
 
+//Credits: Prof Hummel, Director of Undergraduate Studies.
+
 using System;
 using System.Windows.Forms;
 using System.Windows.Forms.DataVisualization.Charting;
